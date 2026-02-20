@@ -1,3 +1,8 @@
+# 💫 Hi 👋, I'm Ujjwal Gupta
+**A passionate Full Stack Developer**
+
+📧 Feel free to reach out at: ujjwalgupta220505@gmail.com 
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ujjwal-gupta-52a466336/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/__ujjwal1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ujjwalgupta220505@gmail.com) 
